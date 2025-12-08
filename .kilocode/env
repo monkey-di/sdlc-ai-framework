@@ -1,0 +1,8 @@
+# Environment:
+```
+Current mode: {{mode}}
+Working directory: {{workspace}}
+Platform: {{operatingSystem}}
+Default Shell: /bin/bash
+Home Directory: /home/monkey
+```
